@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyecto Ucar - Logging</string>
+
+//Login
+    <string name="username_email">Username or email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sing_in">SING IN</string>
+    <string name="forgot_password">Have you forgotten the password?</string>
+//Sing in
+    <string name="create_account">CREATE YOUR ACCOUNT</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    
+
+</resources>
